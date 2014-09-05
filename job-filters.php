@@ -22,7 +22,7 @@ wp_enqueue_script( 'wp-job-manager-ajax-filters' );
 						<select name="search_region" id="search_region">
 							<option value="0" selected="selected">Alle regios</option>
 							<?php foreach ( $s_regions as $region ) { ?>
-							<option value="<?php echo $region->name; ?>"><?php echo $region->name; ?></option>
+							<option value="<?php echo $region->slug; ?>"><?php echo $region->name; ?></option>
 							<?php } ?>
 						</select>				
 					</div>
