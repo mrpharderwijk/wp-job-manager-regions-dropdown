@@ -38,12 +38,15 @@ How should I implement this?
 
 The affected files for this fix are:
 // form markup for ajax values
+=
 job-filters.php
 
 // line 89 for non-compressed js
+=
 plugins/wp-job-manager/wp-job-manager.php
 
 // various additions
+=
 plugins/wp-job-manager/wp-job-manager-functions.php
 plugins/wp-job-manager/includes/class-wp-job-manager-ajax.php
 plugins/wp-job-manager/assets/js/ajax-filters.js
