@@ -1,5 +1,6 @@
 <?php
-/** this file is located in wp-content/themes/jobify/job-filters.php
+/** 
+ * this file is located in wp-content/themes/jobify/job-filters.php
  *
  */
 
