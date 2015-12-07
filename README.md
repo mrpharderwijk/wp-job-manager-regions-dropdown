@@ -52,3 +52,9 @@ plugins/wp-job-manager/includes/class-wp-job-manager-ajax.php
 plugins/wp-job-manager/assets/js/ajax-filters.js
 
 Clone the files from the github and place them in your Jobify project.
+
+= = = = = = = = = = = = = = = = = = = = = 
+
+Hope this is helpfull!
+
+~ Marnix Harderwijk
